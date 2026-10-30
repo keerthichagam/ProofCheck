@@ -1,0 +1,17 @@
+{
+    "passed": 3,
+    "failed": 1,
+    "needs_review": 1,
+    "invalid": 1,
+    "failed_requirements": [
+        "Password reset works"
+    ],
+    "invalid_requirements": [
+        "Profile loads"
+    ],
+    "validation_errors": [
+        "Profile loads: Invalid or missing status"
+    ],
+    "total": 6,
+    "pass_rate": 75.0
+}

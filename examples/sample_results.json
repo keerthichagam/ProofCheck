@@ -1,0 +1,27 @@
+
+[
+  {
+    "requirement": "Login works",
+    "status": "pass"
+  },
+  {
+    "requirement": "Payment works",
+    "status": "pass"
+  },
+  {
+    "requirement": "Checkout works",
+    "status": "needs_review"
+  },
+  {
+    "requirement": "Search works",
+    "status": "pass"
+  },
+  {
+    "requirement": "Profile loads",
+    "status": "unknown"
+  },  
+  {
+    "requirement": "Password reset works",
+    "status": "fail"
+  }
+]
